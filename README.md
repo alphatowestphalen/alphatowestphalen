@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🌱Java and the Java language, particularly Angular and Spring, are something I enjoy. <br>- ⚡ Every day, I enjoy sharing my knowledge and learning something new, which is a fun fact.<br><br><br>
+First year student in Master Computer science professional at the ECOLE NATIONALE<br>D'INFORMATIQUE (ENI), follows the path Software Engineering And database, <br>passionate about computers and Wants to be a Full Stack developer.<br>- 🌱Java and the Java language, particularly Angular and Spring, are something I enjoy. <br>- ⚡ Every day, I enjoy sharing my knowledge and learning something new, which is a fun fact.<br><br><br>
 
 
 ## 🌐 Socials:
